@@ -14,3 +14,5 @@ Rain/drizzle (88/66), bus on time/late + "and so are you" (60), umbrella (26), -
 
 ## Status
 Built and verified locally; bundle + check results to be recorded below after the first bundle/check run. Remote repo creation is pending a GitHub repo-create rate limit; local commit below, push + About to follow on retry.
+
+- v2 re-bundle 25 Nov (round 29): from original builder session (65 turns) + muse-usage row; 1 usage row attached; re-check 14/0; resubmit after v1 entries discarded server-side (5 made, 0 kept).
